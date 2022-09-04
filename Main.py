@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@URK21CS3032 
+KITSCTCLab
+/
+exercise-3-a-array-implementation-of-queue-adt-URK21CS3032
+Public
+generated from brightvarghese/22_ODD_DS_Exercise-3.a
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+exercise-3-a-array-implementation-of-queue-adt-URK21CS3032/Main.py /
+@github-classroom
+github-classroom Initial commit
+Latest commit 9dafbfd on Aug 1
+ History
+ 1 contributor
+117 lines (100 sloc)  3.25 KB
+
 class Solution:
     """This class implements linear queue.
       Attributes:
@@ -115,3 +145,18 @@ if is_palindrome:
     print("The word, " + text + ", is a palindrome.")
 else:
     print("The word, " + text + ", is not a palindrome.")
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
